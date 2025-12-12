@@ -1,7 +1,7 @@
 # HR-Employees-Analysis-Report
 
 
-## *Reporting Tool:* Power BI  
+## *Reporting Tools:* Excel, Sql, Power BI
 *Focus:* Employee Metrics Overview – Performance, Compensation, Demographics, and Departmental Insights  
 *Data Summary:* 1,470 employees
 
