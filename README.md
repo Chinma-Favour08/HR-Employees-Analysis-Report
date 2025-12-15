@@ -7,6 +7,7 @@
 
 ## *Introduction/Overview*
 This HR dashboard provides a visual summary of key workforce indicators across the organization. It tracks employee count, experience, income, departmental distribution, training, and performance to support effective HR decision-making and resource planning.
+-Attached to this is a Screenshot of the Dashboard: ![image alt](https://github.com/Chinma-Favour08/HR-Employees-Analysis/blob/main/HR%20Employee%20Screenshot.png?raw=true)
 
 ## *Key Highlights*
 - *Total Employees:* 1,470  
